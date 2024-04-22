@@ -1,6 +1,6 @@
 [submodule "taskManager_django"]
 	path = taskManager_django
-	url = ./taskManager_django
+	url = https://github.com/parhamgh2020/taskManager_django.git
 [submodule "taskManager_reactNative"]
 	path = taskManager_reactNative
-	url = ./taskManager_reactNative
+	url = https://github.com/parhamgh2020/taskManager_reactNative.git
