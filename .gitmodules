@@ -1,0 +1,3 @@
+[submodule "taskManager_django"]
+	path = taskManager_django
+	url = ./taskManager_django
